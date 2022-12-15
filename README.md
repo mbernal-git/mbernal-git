@@ -81,6 +81,10 @@ The purpose of this project is to familiarize myself into a new technology (Flut
 Goal: System allows user to create their own trivia question and answer and configure settings. Other players can access the quiz via trivia id.
 
 1. trivia database
+
 2. trivia maker form
+
 3. trivia id generator
+
+4. Adding a new option to play a custom trivia by inputting trivia id in the splash screen
 
