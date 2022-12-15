@@ -2,7 +2,7 @@
 
 Feedback app (private repository)
 
-The purpose of this project is to develop a simple app that would require services from other system. The mobile app sends user inputs to the NestJS API. The NestJS API will send the request and response using the TypeORM library through the Postgres database. All system connection are done via Docker and docker-compose. Finally, I created a simple dashboard for displaying Net promoter Score (NPS) and Customer Satisfaction Score (CSAT) for a small salon business in Perth. This is a private repository but I am willing to share the code to prospect employers.
+The purpose of this project is to develop a simple app that would require services from other system. The mobile app sends user input to the NestJS API. The NestJS API will send the request and response using the TypeORM library through the Postgres database. All system connection are done via Docker and docker-compose. Finally, I created a simple dashboard for displaying Net promoter Score (NPS) and Customer Satisfaction Score (CSAT) for a small salon business in Perth. This is a private repository but I am willing to share the code to prospect employers.
 
 ![v.1.0.0](emma-feedback1024_1.jpg)
 ![v.1.0.0](emma-feedback1024_2.jpg)
