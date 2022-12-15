@@ -66,12 +66,19 @@ The purpose of this project is to familiarize myself into a new technology (Flut
 
 1. timer mode - system will go to the next question without any user selection
 
-2. trivia maker - user can create their own trivia question and answers
+2. offline mode - system allows user to fetch trivia without internet connection
 
-3. offline mode - system allows user to fetch trivia without internet connection
+3. user interaction sound effect
 
-4. user interaction sound effect
+4. responsive layout ***
 
-5. responsive layout ***
+5. Icons for categories label
 
-6. Icons for categories label
+##### Sprint 3 v.2.0.0 (to do)
+
+Goal: System allows user to create their own trivia question and answer and configure settings. Other players can access the quiz via trivia id.
+
+1. trivia database
+2. trivia maker form
+3. trivia id generator
+
