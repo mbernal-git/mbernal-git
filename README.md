@@ -2,7 +2,7 @@
 
 Feedback app (private repository)
 
-The purpose of this project is to develop a simple distributed system to collect client feedback after their appointment. This app targets Samsumg Tablet A8 in both landscape or portrait screen. I am using agile delivery with Jira as my prefered software development tools. The code base is in a private repository hosted in BitBucket. I will be happy to share you my code for hiring pourposes.
+The purpose of this project is to develop a simple distributed system to collect client feedback after their appointment. This app targets Samsung Tablet A8 in both landscape or portrait screen. I am using agile delivery with Jira as my prefered software development tools. The code base is in a private repository hosted in BitBucket. I will be happy to share you my code for hiring pourposes.
 
 
 ![v.1.0.0](emma-feedback1024_1.jpg)
