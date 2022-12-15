@@ -26,6 +26,8 @@ The purpose of this project is to develop a simple distributed system to collect
      4. Power BI (dashboard) (done)
      
      5. Docker and docker-compose
+     
+     6. AWS EC2
 
 
 ---
