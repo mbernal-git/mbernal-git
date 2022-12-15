@@ -2,8 +2,7 @@
 
 #### Feedback app (private repository)
 
-The purpose of this project is to develop a simple distributed system to collect client feedback after their appointment. This app targets Samsung Tablet A8 in both landscape or portrait screen. I am using agile delivery with Jira as my prefered software development tools. The code base is in a private repository hosted in BitBucket. I will be happy to share you my code for hiring pourposes.
-
+The purpose of this project is to develop a simple distributed system to collect client feedback after their appointment. This app targets Samsung Tablet A8 in both landscape or portrait screen. I am using agile delivery with Jira as my prefered software development tools. The client uses Apple products that is why the prototype is loosely inspired by Apple's Human Interface Guidelines Cupertino. The code base is in a private repository hosted in BitBucket. Message me for code base review.
 
 ![v.1.0.0](emma-feedback1024_1.jpg)
 ![v.1.0.0](emma-feedback1024_2.jpg)
@@ -34,6 +33,45 @@ The purpose of this project is to develop a simple distributed system to collect
 
 #### Trivia night flutter mobile app (private repository)
 
-The purpose of this project is to familiarize myself into a new technology (Flutter) developing mobile ready app. This project uses provider package for state management and trivia-api. Current features includes toggle dark mode, sound, and user able to review their score. This is a private repository hosted here in GitHub but I am willing to show the codebase or send the .apk file to employers. 
+The purpose of this project is to familiarize myself into a new technology (Flutter) developing mobile ready app. This project uses provider package for state management and trivia-api. Current features includes toggle dark mode, sound, and user able to review their score. This is a private repository hosted here in GitHub but I am willing to show the codebase or send the .apk file upon request. The wireframe was created using Figma and inspired by Material design.
 
 ![v.1.2.0](trivia_ux_journey.gif)
+
+##### Sprint 1: completed
+
+1. Splash screen
+
+2. Category selection screen
+
+3. Difficulty selection screen
+
+4. Number of questions selection screen
+
+5. Question screen
+
+6. Results screen
+
+7. Review answers screen
+
+8. Menu screen
+
+9. Dark mode
+
+10. Toggle background music
+
+11. Reset trivia (app settings, trivia, navigator)
+
+
+##### Sprint 2 v.1.3.0 features includes(pending):
+
+1. timer mode - system will go to the next question without any user selection
+
+2. trivia maker - user can create their own trivia question and answers
+
+3. offline mode - system allows user to fetch trivia without internet connection
+
+4. user interaction sound effect
+
+5. responsive layout ***
+
+6. Icons for categories label
