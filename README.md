@@ -37,7 +37,7 @@ The purpose of this project is to familiarize myself into a new technology (Flut
 
 ![v.1.2.0](trivia_ux_journey.gif)
 
-##### Sprint 1: completed
+##### Sprint 1: MVP (completed) 🚀
 
 1. Splash screen
 
