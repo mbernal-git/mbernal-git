@@ -2,7 +2,8 @@
 
 Feedback app (private repository)
 
-The purpose of this project is to develop a simple app that would require services from other system. The mobile app sends user input to the NestJS API. The NestJS API will send the request and response using the TypeORM library through the Postgres database. All system connection are done via Docker and docker-compose. Finally, I created a simple dashboard for displaying Net promoter Score (NPS) and Customer Satisfaction Score (CSAT) for a small salon business in Perth. This is a private repository but I am willing to share the code to prospect employers.
+The purpose of this project is to develop a simple distributed system to collect client feedback after their appointment. This app targets Samsumg Tablet A8 in both landscape or portrait screen. I am using agile delivery with Jira as my prefered software development tools. The code base is in a private repository hosted in BitBucket. I will be happy to share you my code for hiring pourposes.
+
 
 ![v.1.0.0](emma-feedback1024_1.jpg)
 ![v.1.0.0](emma-feedback1024_2.jpg)
@@ -29,6 +30,6 @@ The purpose of this project is to develop a simple app that would require servic
 
 Trivia night flutter mobile app (private repository)
 
-The purpose of this project is to familiarize a new technologies (Flutter) to develop a mobile ready apps. This project uses provider package for state management and trivia-api. Current features includes toggle dark mode, sound, and user able to review their score. This is a private repository but I am willing to show the codebase or send the .apk file to prospect employers. 
+The purpose of this project is to familiarize myself into a new technology (Flutter) to develop a mobile ready app. This project uses provider package for state management and trivia-api. Current features includes toggle dark mode, sound, and user able to review their score. This is a private repository hosted here in GitHub but I am willing to show the codebase or send the .apk file to employers. 
 
 ![v.1.2.0](trivia_ux_journey.gif)
