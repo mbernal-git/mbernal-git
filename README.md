@@ -74,6 +74,8 @@ The purpose of this project is to familiarize myself into a new technology (Flut
 
 5. Icons for categories label
 
+6. Page transition animation
+
 ##### Sprint 3 v.2.0.0 (to do)
 
 Goal: System allows user to create their own trivia question and answer and configure settings. Other players can access the quiz via trivia id.
