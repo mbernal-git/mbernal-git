@@ -2,7 +2,7 @@
 
 #### Feedback app (private repository)
 
-The purpose of this project is to develop a simple distributed system to collect client feedback after their appointment. This app targets Samsung Tablet A8 in both landscape or portrait screen. I am using agile delivery with Jira as my prefered software development tools. The client uses Apple products that is why the prototype is loosely inspired by Apple's Human Interface Guidelines Cupertino. The code base is in a private repository hosted in BitBucket. Message me for code base review.
+The purpose of this project is to develop a simple distributed system to collect client feedback after their appointment. This app targets Samsung Tablet A8 in both landscape or portrait screen. I am using agile delivery with Jira as my prefered software development tools. The client uses Apple products that is why the prototype is loosely inspired by Apple's Human Interface Guidelines Cupertino.
 
 ![v.1.0.0](emma-feedback1024_1.jpg)
 ![v.1.0.0](emma-feedback1024_2.jpg)
@@ -33,7 +33,7 @@ The purpose of this project is to develop a simple distributed system to collect
 
 #### Trivia night flutter mobile app (private repository)
 
-The purpose of this project is to familiarize myself into a new technology (Flutter) developing mobile ready app. This project uses provider package for state management and trivia-api. Current features includes toggle dark mode, sound, and user able to review their score. This is a private repository hosted here in GitHub but I am willing to show the codebase or send the .apk file upon request. The wireframe was created using Figma and inspired by Material design.
+The purpose of this project is to familiarize myself into a new technology (Flutter) developing mobile ready app. This project uses provider package for state management and trivia-api. Current features includes toggle dark mode, sound, and user able to review their score. The wireframe was created using Figma and inspired by Material design.
 
 ![v.1.2.0](trivia_ux_journey.gif)
 
