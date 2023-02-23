@@ -78,7 +78,7 @@ The purpose of this project is to familiarize myself into a new technology (Flut
 
 ##### Sprint 3 v.2.0.0 (to do)
 
-Goal: System allows user to create their own trivia question and answer and configure settings. Other players can access the quiz via trivia id.
+Goal: System allows user to create their own trivia(question, answer, and configuration settings. Other players can access the quiz via trivia id.
 
 1. trivia database
 
@@ -87,4 +87,9 @@ Goal: System allows user to create their own trivia question and answer and conf
 3. trivia id generator
 
 4. Adding a new option to play a custom trivia by inputting trivia id in the splash screen
+5. 
+
+#### Requests / Bug
+
+1. Clear cache on reset to fetch new and new trivia
 
