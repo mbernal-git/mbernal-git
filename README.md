@@ -87,9 +87,3 @@ Goal: System allows user to create their own trivia(question, answer, and config
 3. trivia id generator
 
 4. Adding a new option to play a custom trivia by inputting trivia id in the splash screen
-5. 
-
-#### Requests / Bug
-
-1. Clear cache on reset to fetch new and new trivia
-
