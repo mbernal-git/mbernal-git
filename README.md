@@ -4,6 +4,20 @@
 
 The purpose of this project is to develop a simple distributed system to collect client feedback after their appointment. This app targets Samsung Tablet A8 in both landscape or portrait screen. I am using agile delivery with Jira as my prefered software development tools. The client uses Apple products that is why the prototype is loosely inspired by Apple's Human Interface Guidelines Cupertino.
 
+#### Architecture
+
+![solution](archi.png)
+
+
+#### BI Reports
+
+![legend](salon-report-legend-tab1.png)
+![nps](salon-feedback-nps-tab2.png)
+![csat](emma-feedback-scat-tab3.png)
+![stats](emma-feedback-stats-tab4.png)
+![suggestions](emma-feedback-suggestions-tab5.png)
+#### Client
+
 ![v.1.0.0](emma-feedback1024_1.jpg)
 ![v.1.0.0](emma-feedback1024_2.jpg)
 ![v.1.0.0](emma-feedback1024_3.jpg)
@@ -11,22 +25,6 @@ The purpose of this project is to develop a simple distributed system to collect
 ![v.1.0.0](emma-feedback1024_5.jpg)
 ![v.1.0.0](emma-feedback1024_6.jpg)
 ![v.1.0.0](emma-feedback1024_7.jpg)
-
-
-
-    Infrastructure: 
-
-     1. Flutter mobile app (pending)
-
-     2. Nest JS API with TypeORM (done)
-
-     3. PostgreSQL (DB and views) (done)
-
-     4. Power BI (dashboard) (done)
-     
-     5. Docker and docker-compose
-     
-     6. AWS EC2
 
 
 ---
