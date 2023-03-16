@@ -2,20 +2,13 @@
 
 ### Feedback app (private repository) Postponed
 
-Developers perspective:
-
-The purpose of this project is to develop a simple distributed system to collect client feedback after their appointment. This app targets Samsung Tablet A8 in both landscape or portrait screen. I am using agile delivery with Jira as my prefered software development tools. The client uses Apple products that is why the prototype is loosely inspired by Apple's Human Interface Guidelines Cupertino.
-
-Clients' perspective:
-
-Measure customer satisfaction and loyalty to improve customer service with the use of NPS and CSAT survey.
+The purpose of this project is to develop a simple distributed system to collect client feedback after their appointment with the use of NPS and CSAT survey to improve customer service. This app targets Samsung Tablet A8 in both landscape or portrait screen. I am using agile delivery with Jira as my prefered software development tools. The client uses Apple products that is why the prototype is loosely inspired by Apple's Human Interface Guidelines Cupertino.
 
 #### Architecture
 
 ![solution](archi-new.png)
 
-
-#### BI Reports
+#### BI Report
 
 ![legend](salon-report-legend-tab1.png)
 ![nps](salon-feedback-nps-tab2.png)
