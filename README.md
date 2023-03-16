@@ -8,7 +8,7 @@ The purpose of this project is to develop a simple distributed system to collect
 
 Clients' perspective:
 
-Measure customer satisfaction and loyalty to improve customer service.
+Measure customer satisfaction and loyalty to improve customer service with the use NPS and CSAT survey.
 
 #### Architecture
 
