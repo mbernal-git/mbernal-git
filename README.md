@@ -2,7 +2,13 @@
 
 ### Feedback app (private repository) Postponed
 
+Developers perspective:
+
 The purpose of this project is to develop a simple distributed system to collect client feedback after their appointment. This app targets Samsung Tablet A8 in both landscape or portrait screen. I am using agile delivery with Jira as my prefered software development tools. The client uses Apple products that is why the prototype is loosely inspired by Apple's Human Interface Guidelines Cupertino.
+
+Clients' perspective:
+
+Measure customer satisfaction and loyalty to improve customer service.
 
 #### Architecture
 
