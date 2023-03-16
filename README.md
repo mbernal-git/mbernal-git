@@ -6,7 +6,7 @@ The purpose of this project is to develop a simple distributed system to collect
 
 #### Architecture
 
-![solution](archi.png)
+![solution](archi-new.png)
 
 
 #### BI Reports
