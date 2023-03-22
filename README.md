@@ -1,3 +1,5 @@
+<!-- [Microsoft profile](https://learn.microsoft.com/en-gb/users/mb-8749/transcript/vpe93cgkqor6m9q) -->
+
 ## Current projects
 
 ### Feedback app (private repository) Postponed
