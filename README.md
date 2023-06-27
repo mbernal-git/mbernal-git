@@ -1,5 +1,5 @@
 <!-- [Microsoft profile](https://learn.microsoft.com/en-gb/users/mb-8749/transcript/vpe93cgkqor6m9q) -->
-
+<!--
 ## Current projects
 
 ### Feedback app (private repository) Postponed
@@ -86,3 +86,5 @@ Goal: System allows user to create their own trivia(question, answer, and config
 3. trivia id generator
 
 4. Adding a new option to play a custom trivia by inputting trivia id in the splash screen
+
+5. -->
